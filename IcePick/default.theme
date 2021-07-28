@@ -1,0 +1,121 @@
+# IcePick theme
+# https://github.com/vimux/icewm-theme-icepick
+
+# Theme info
+ThemeName="IcePick"
+ThemeDescription="Classically looking minimalist theme for IceWM"
+ThemeAuthor="vimux | https://github.com/vimux/"
+
+Look=metal # Supported options: flat, metal
+
+# Windows & Dialogs borders
+BorderSizeX=6
+BorderSizeY=6
+DlgBorderSizeX=6
+DlgBorderSizeY=6
+
+# Titlebar options
+TitleBarHeight=27
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xmis"
+TitleBarJustify=50
+RolloverButtonsSupported=1 # Enable hover effect support for Title bar button images  
+
+# Icons
+MenuIconSize=24      # IcePick menu icons optimized for 24x24
+SmallIconSize=24     # Taskbar & Titlebar
+LargeIconSize=32     # Quickswitch window
+HugeIconSize=48
+ShowMenuButtonIcon=1 # Show application icon on menuButton
+
+# Quick Switch
+QuickSwitchHorzMargin = 6
+QuickSwitchVertMargin = 6
+
+# Window color border
+ColorNormalBorder="#394765"
+ColorActiveBorder="#394765"
+
+# Titlebar
+ColorNormalTitleBar="#394765"
+ColorNormalTitleBarText="#AAAAAA"
+ColorActiveTitleBar="#394765"
+ColorActiveTitleBarText="#EEEEEE"
+
+# Titlebar buttons background
+ColorNormalTitleButton="#394765"
+
+# Menu
+ColorNormalMenu="#333F5A"
+ColorActiveMenuItem="#273044"
+ColorNormalMenuItemText="#DFDBD2"
+ColorActiveMenuItemText="#FFFFFF"
+ColorDisabledMenuItemText="#7A7A7A"
+
+ColorNormalButton="#394765"
+ColorNormalButtonText="#DFDBD2"
+
+# Taskbar
+# Taskbar height = height of start.xpm
+ColorDefaultTaskBar="#394765"
+ColorNormalTaskBarApp="#394765"
+ColorNormalTaskBarAppText="#AAAAAA"
+ColorActiveTaskBarApp="#273044"
+ColorActiveTaskBarAppText="#FFFFFF"
+ColorMinimizedTaskBarApp="#394765"
+ColorMinimizedTaskBarAppText="#C1C9DC"
+
+# Taskbar workspace button
+ColorActiveWorkspaceButton="#4AB3E4"
+ColorActiveWorkspaceButton="#45567B"
+ColorActiveWorkspaceButtonText="#FFFFFF"
+PagerShowBorders=0
+
+# Taskbar input (addressbar)
+ColorInput="#212839"
+ColorInputText="#8999BB"
+ColorInputSelection="#507DBC"
+ColorInputSelectionText="#FFFFFF"
+
+# Taskbar clock
+ColorClock="#394765"
+ColorClockText="#9AB0C9"
+
+# Tooltip
+ColorToolTip="#00000"
+ColorToolTipText="#FFFFFF"
+
+ColorListBox="#3D3D3D"
+ColorListBoxText="#FFFFFF"
+ColorListBoxSelection="#4AB3E4"
+ColorListBoxSelectionText="#FFFFFF"
+
+# Move popup settings
+ColorMoveSizeStatus="#273044"
+ColorMoveSizeStatusText="#F1F1F1"
+
+# Alt+Tab window colors
+ColorQuickSwitch="#394765"
+ColorQuickSwitchActive="#273044"
+ColorQuickSwitchText="#DFDBD2"
+ColorQuickSwitchSelectionText="#FFFFFF"
+
+ColorDialog="#3D3D3D"
+ColorLabel="#3D3D3D"
+ColorLabelText="#DFDBD2"
+
+# Font settings
+# Noto Sans > Default Sans
+TitleFontNameXft="Noto Sans:size=12,Sans:size=12"
+MenuFontNameXft="Noto Sans:size=12,Sans:size=12"
+StatusFontNameXft="Noto Sans:size=12,Sans:size=12"
+QuickSwitchFontNameXft="Noto Sans:size=12,Sans:size=12"
+NormalButtonFontNameXft="Noto Sans:size=12,Sans:size=12"
+NormalTaskBarFontNameXft="Noto Sans:size=12,Sans:size=12"
+ActiveTaskBarFontNameXft="Noto Sans:size=12,Sans:size=12"
+LabelFontNameXft="Noto Sans:size=12,Sans:size=12"
+ListBoxFontNameXft="Noto Sans:size=12,Sans:size=12"
+ToolTipFontNameXft="Noto Sans:size=10,Sans:size=10"
+ClockFontNameXft="Noto Sans:size=12,Sans:size=12"
+# Noto Sans Mono > Default monospace font
+InputFontNameXft="Noto Sans Mono:size=18,monospace:size=18"

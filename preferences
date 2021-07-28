@@ -1,0 +1,48 @@
+# IcePick theme recommended settings
+# https://github.com/vimux/icewm-theme-icepick
+
+# Menu Settings
+AutoReloadMenus=1
+MenuMouseTracking=1
+ShowFocusModeMenu=0
+ShowProgramsMenu=0
+ShowWindowList=0
+ShowHelp=0
+
+# Tooltips
+ToolTipTime=5000                     # [0-60000] Time (ms) before tooltip window is hidden. 0 means never
+
+# TitleBar
+TitleBarMaximizeButton=1             # TitleBar mouse-button double click to maximize the window
+TitleBarRollupButton=2               # TitleBar mouse-button double click to rollup the window
+
+# Taskbar
+TaskBarClockLeds=0
+TaskBarShowWindowListMenu=0          # Don't show button for window list menu on taskbar
+TaskbarButtonWidthDivisor=9          # [1-25]
+TaskBarShowMailboxStatus=0           # Disable mailbox status
+TaskBarShowTransientWindows=0        # Don't show transient (dialogs, etc) windows on taskbar
+TaskBarShowShowDesktopButton=2       # Show 'show desktop' button on the right side of the taskbar
+
+# Taskbar virtual desktops (workspaces)
+TaskBarShowWorkspaces=0
+WorkspaceNames=" 1 "," 2 "
+PagerShowPreview=0
+ShowWorkspaceStatus=0                # Don't show workspace status popup
+TaskBarUseMouseWheel=0               # Disable mouse wheel
+
+# Taskbar tray
+TaskBarShowMailboxStatus=0           # Disable tray mail icon
+TaskBarShowCPUStatus=0               # Disable tray CPU status
+TaskBarShowMEMStatus=0               # Disable tray MEM status
+TaskBarShowNetStatus=0               # Disable tray NET status
+
+# Taskbar Clock
+TimeFormat="%H:%M"                   # Taskbar clock time format (strftime format)
+DateFormat="%H:%M:%S%n%-d %B %Y%n%A" # Taskbar clock date format tooltip (strftime format)
+
+# Taskbar Task item
+MenuMaximalWidth=235
+
+# Taskbar Misc
+ShowMoveSizeStatus=0                 # Disable popup with window position coordinates
