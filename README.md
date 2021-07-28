@@ -2,6 +2,12 @@
 
 **IcePick** is a classically looking minimalist theme for IceWM.
 
+## Screenshot
+
+![IcePick theme screenshot](icepick-screenshot.png)
+
+**Note**: your look and feel may vary depends on your preferences, available fonts, icons, cursors, GTK theme, etc.
+
 ## Quick Start
 
 1. Make a backup. Don't say I didn't warn you!
