@@ -6,7 +6,7 @@
 
 ![IcePick theme screenshot](icepick-screenshot.png)
 
-**Note**: your look and feel may vary depends on your preferences, available fonts, icons, cursors, GTK theme, etc.
+**Note**: look and feel may vary depends on preferences, available fonts, icons, cursors, GTK theme, etc.
 
 ## Quick Start
 
