@@ -82,7 +82,7 @@ ColorClock="#394765"
 ColorClockText="#9AB0C9"
 
 # Tooltip
-ColorToolTip="#00000"
+ColorToolTip="#000000"
 ColorToolTipText="#FFFFFF"
 
 ColorListBox="#3D3D3D"
